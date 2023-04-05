@@ -1,0 +1,13 @@
+p{
+    margin: 10px 0 !important;
+}
+
+h3{
+    padding-top: 1.5rem;
+}
+
+.login_container{
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
